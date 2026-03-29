@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 # agenda de turnos
 lunes1 = ''
 lunes2 = ''

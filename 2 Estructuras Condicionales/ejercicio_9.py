@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 # programa 9
 print('\nPrograma 9\n')
 magnitud = float(input('Indique la magnitud del terremoto segun la escala de Ritcher (numero): '))

@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 # programa 1
 print('\nPrograma 1\n')
 edad = int(input('Ingrese su edad: '))

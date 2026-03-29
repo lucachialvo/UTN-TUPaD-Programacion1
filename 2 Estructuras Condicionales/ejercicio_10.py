@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 10
 print('\nPrograma 10\n')
 

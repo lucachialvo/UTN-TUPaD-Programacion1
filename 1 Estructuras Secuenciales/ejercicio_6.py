@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 6
 # Crear un programa que pida al usuario un número e imprima por pantalla la tabla de
 #multiplicar de dicho número.

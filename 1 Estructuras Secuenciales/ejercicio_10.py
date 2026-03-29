@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 10
 #Crear un programa que pida al usuario 3 números e imprima por pantalla el promedio de
 #dichos números.

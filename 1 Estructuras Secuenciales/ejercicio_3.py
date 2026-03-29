@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 # programa 3
 print("\n### Programa 3 ###")
 name = input("Ingrese su nombre: ").capitalize()

@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 7
 #Crear un programa que pida al usuario dos números enteros distintos del 0 y muestre por
 #pantalla el resultado de sumarlos, dividirlos, multiplicarlos y restarlos.

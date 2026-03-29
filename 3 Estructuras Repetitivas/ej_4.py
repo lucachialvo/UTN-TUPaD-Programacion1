@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 energia = 100
 tiempo = 12
 cerraduras_abiertas = 0

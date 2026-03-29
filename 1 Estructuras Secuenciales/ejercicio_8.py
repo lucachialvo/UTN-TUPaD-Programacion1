@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 8
 #Crear un programa que pida al usuario su altura y su peso e imprima por pantalla su índice
 #de masa corporal. imc = peso(kg)/altura(m)**2

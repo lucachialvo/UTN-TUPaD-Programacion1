@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 vida_gladiador = 100
 vida_enemigo = 100
 pociones = 3

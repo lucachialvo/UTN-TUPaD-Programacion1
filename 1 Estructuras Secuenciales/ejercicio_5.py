@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 5
 print("\n### Programa 5 ###")
 print("Calcular cuantas horas hay en X segundos")

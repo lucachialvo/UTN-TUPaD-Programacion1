@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 # programa 6
 print('\nPrograma 6\n')
 consumo = int(input('Ingrese su consumo mensual de energia en kWh: '))

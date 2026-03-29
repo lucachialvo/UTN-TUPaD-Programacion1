@@ -1,3 +1,5 @@
+# Hecho por Luca Chialvo
+
 #programa 9
 #crear un programa que pida al usuario una temperatura en grados Celsius e imprima por
 #pantalla su equivalente en grados Fahrenheit.
